@@ -1,0 +1,12 @@
+{
+    "Email_Send": " ",
+    "Email_Receive": " ",
+    "Email_Password": "lrqr ccar jtmv ckko",
+    "url": "",
+    "ALERT": false,
+    "Threshold": 2,
+    "Thread": false,
+    "Log": false,
+    "Scheduler": false,
+    "Timer": false
+}
